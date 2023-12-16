@@ -877,7 +877,7 @@ span {
     }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 512px) {
     #left {
         flex-direction: column;
     }
